@@ -1,0 +1,268 @@
+[
+    {
+      "id": 100,
+      "name": "รวมมิตร",
+      "name_en": "all",
+      "slug": "",
+      "is_pinned": false
+    },
+    {
+      "id": 35,
+      "name": "กรุงโซล",
+      "name_en": "korea",
+      "slug": "korea",
+      "is_pinned": false
+    },
+    {
+      "id": 17,
+      "name": "รัชดา",
+      "name_en": "ratchada",
+      "slug": "ratchada",
+      "is_pinned": false
+    },
+    {
+      "id": 26,
+      "name": "หว้ากอ",
+      "name_en": "wahkor",
+      "slug": "wahkor",
+      "is_pinned": false
+    },
+    {
+      "id": 18,
+      "name": "ราชดำเนิน",
+      "name_en": "rajdumnern",
+      "slug": "rajdumnern",
+      "is_pinned": false
+    },
+    {
+      "id": 32,
+      "name": "บางรัก",
+      "name_en": "bangrak",
+      "slug": "bangrak",
+      "is_pinned": false
+    },
+    {
+      "id": 25,
+      "name": "สีลม",
+      "name_en": "silom",
+      "slug": "silom",
+      "is_pinned": false
+    },
+    {
+      "id": 20,
+      "name": "ศาสนา",
+      "name_en": "religious",
+      "slug": "religious",
+      "is_pinned": false
+    },
+    {
+      "id": 7,
+      "name": "เฉลิมไทย",
+      "name_en": "chalermthai",
+      "slug": "chalermthai",
+      "is_pinned": false
+    },
+    {
+      "id": 23,
+      "name": "สวนลุมพินี",
+      "name_en": "lumpini",
+      "slug": "lumpini",
+      "is_pinned": false
+    },
+    {
+      "id": 16,
+      "name": "มาบุญครอง",
+      "name_en": "mbk",
+      "slug": "mbk",
+      "is_pinned": false
+    },
+    {
+      "id": 33,
+      "name": "พรหมชาติ",
+      "name_en": "horoscope",
+      "slug": "horoscope",
+      "is_pinned": false
+    },
+    {
+      "id": 34,
+      "name": "ดิโอลด์สยาม",
+      "name_en": "theoldsiam",
+      "slug": "theoldsiam",
+      "is_pinned": false
+    },
+    {
+      "id": 22,
+      "name": "สยามสแควร์",
+      "name_en": "siam",
+      "slug": "siam",
+      "is_pinned": false
+    },
+    {
+      "id": 1,
+      "name": "กล้อง",
+      "name_en": "camera",
+      "slug": "camera",
+      "is_pinned": false
+    },
+    {
+      "id": 6,
+      "name": "เฉลิมกรุง",
+      "name_en": "chalermkrung",
+      "slug": "chalermkrung",
+      "is_pinned": false
+    },
+    {
+      "id": 12,
+      "name": "ถนนนักเขียน",
+      "name_en": "writer",
+      "slug": "writer",
+      "is_pinned": false
+    },
+    {
+      "id": 99,
+      "name": "ไร้สังกัด",
+      "name_en": "isolate",
+      "slug": "isolate",
+      "is_pinned": false
+    },
+    {
+      "id": 31,
+      "name": "บางขุนพรหม",
+      "name_en": "tvshow",
+      "slug": "tvshow",
+      "is_pinned": false
+    },
+    {
+      "id": 11,
+      "name": "โต๊ะเครื่องแป้ง",
+      "name_en": "beauty",
+      "slug": "beauty",
+      "is_pinned": false
+    },
+    {
+      "id": 2,
+      "name": "ก้นครัว",
+      "name_en": "food",
+      "slug": "food",
+      "is_pinned": false
+    },
+    {
+      "id": 3,
+      "name": "แกลเลอรี่",
+      "name_en": "gallery",
+      "slug": "gallery",
+      "is_pinned": false
+    },
+    {
+      "id": 4,
+      "name": "ไกลบ้าน",
+      "name_en": "klaibann",
+      "slug": "klaibann",
+      "is_pinned": false
+    },
+    {
+      "id": 5,
+      "name": "จตุจักร",
+      "name_en": "jatujak",
+      "slug": "jatujak",
+      "is_pinned": false
+    },
+    {
+      "id": 8,
+      "name": "ชานเรือน",
+      "name_en": "family",
+      "slug": "family",
+      "is_pinned": false
+    },
+    {
+      "id": 9,
+      "name": "ชายคา",
+      "name_en": "home",
+      "slug": "home",
+      "is_pinned": false
+    },
+    {
+      "id": 10,
+      "name": "ซิลิคอนวัลเลย์",
+      "name_en": "siliconvalley",
+      "slug": "siliconvalley",
+      "is_pinned": false
+    },
+    {
+      "id": 13,
+      "name": "บลูแพลนเน็ต",
+      "name_en": "blueplanet",
+      "slug": "blueplanet",
+      "is_pinned": false
+    },
+    {
+      "id": 14,
+      "name": "พันทิป",
+      "name_en": "pantip",
+      "slug": "pantip",
+      "is_pinned": false
+    },
+    {
+      "id": 15,
+      "name": "ภูมิภาค",
+      "name_en": "region",
+      "slug": "region",
+      "is_pinned": false
+    },
+    {
+      "id": 19,
+      "name": "ศาลาประชาคม",
+      "name_en": "social",
+      "slug": "social",
+      "is_pinned": false
+    },
+    {
+      "id": 21,
+      "name": "ศุภชลาศัย",
+      "name_en": "supachalasai",
+      "slug": "supachalasai",
+      "is_pinned": false
+    },
+    {
+      "id": 24,
+      "name": "สินธร",
+      "name_en": "sinthorn",
+      "slug": "sinthorn",
+      "is_pinned": false
+    },
+    {
+      "id": 27,
+      "name": "ห้องสมุด",
+      "name_en": "library",
+      "slug": "library",
+      "is_pinned": false
+    },
+    {
+      "id": 28,
+      "name": "กรีนโซน",
+      "name_en": "greenzone",
+      "slug": "greenzone",
+      "is_pinned": false
+    },
+    {
+      "id": 29,
+      "name": "หอศิลป์",
+      "name_en": "art",
+      "slug": "art",
+      "is_pinned": false
+    },
+    {
+      "id": 30,
+      "name": "การ์ตูน",
+      "name_en": "cartoon",
+      "slug": "cartoon",
+      "is_pinned": false
+    },
+    {
+      "id": 36,
+      "name": "แก็ดเจ็ต",
+      "name_en": "gadget",
+      "slug": "gadget",
+      "is_pinned": false
+    }
+  ]
