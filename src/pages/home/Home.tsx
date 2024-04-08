@@ -46,7 +46,7 @@ const HomePage = () => {
           <button>เข้าสู่ระบบ</button>
         </div>
       </div>
-      <div className="top-20 pt-3  bg-purple-1 shadow-md sticky text-white flex overflow-x-auto ">
+      <div className="top-20 pt-3  bg-purple-1 shadow-md sticky text-white flex overflow-x-auto overflow-y-hidden ">
         {headerBtnText.map((room, index) => {
           return (
             <div className="flex-none my-auto">

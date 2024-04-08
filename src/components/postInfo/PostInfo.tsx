@@ -16,15 +16,15 @@ const PostInfoCard = ({ postInfos }: PostInfoProps) => {
             )}
           </div>
           <div>
-            <p className="text-white font-bold">{post.title}</p>
-            <div className="flex justify-evenly">
+            <p className="text-white font-bold hover:cursor-pointer">{post.title}</p>
+            <div className="flex">
               {post.tags.map((tag, catIndex) => (
-                <p key={catIndex} className="text-purple-text-2 mr-2 text-sm">
+                <p key={catIndex} className="text-purple-text-2 mr-2 text-sm hover:cursor-pointer">
                   {tag.name}
                 </p>
               ))}
             </div>
-            <p className="text-purple-text-1 text-sm">
+            <p className="text-purple-text-1 text-sm hover:cursor-pointer">
               {post.author.name} . {post.created_time}
             </p>
           </div>
